@@ -5,3 +5,4 @@
 - GraphQL
 - GraphCMS
 - Tailwind CSS
+- Vercel
