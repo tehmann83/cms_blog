@@ -7,7 +7,7 @@ const Home = ({ posts }) => {
   return (
     <div className="container px-10 mx-auto mb-8 bg-gray">
       <Head>
-        <title>CMS Blog</title>
+        <title>Wels im April</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <FeaturedPosts />
